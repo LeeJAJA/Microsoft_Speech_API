@@ -148,7 +148,7 @@ pycurl==7.43.0.3
 pydub==0.23.1
 pyflakes==2.1.1
 pyGeoStatistics==0+untagged.91.g295c4d2
-Pygments==2.4.2
+Pygments==2.7.4
 pyKriging==0.2.0
 pylint==2.3.1
 pyodbc==4.0.26
